@@ -1,7 +1,7 @@
 # ✨ Pet Project: Todo List Application
 
 
-This project is a simple yet powerful todo list application designed to help you manage your tasks efficiently. The project consists of a React Native frontend and a Node.js backend, with a well-structured architecture and modern development practices.
+This project is a powerful todo list application designed to help you manage your tasks efficiently. The project consists of a React Native frontend and a Node.js backend, with a well-structured architecture and modern development practices.
 
 ## 🔗 Features
 
